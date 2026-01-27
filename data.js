@@ -7,9 +7,9 @@ const students = [
     
     // 1. Copy the line below
     { name: "Puneet Tiwari", username: "puneet426", thought: "Let's build something awesome!" },
-    { name: "Ayush Kumar", username: "kansyakarayush-tech", thought: "Let's build something awesome!" }
-    { name: "Ankit Raj", username: "rajankit1501", thought: "Let's build something new!" }
+    { name: "Ayush Kumar", username: "kansyakarayush-tech", thought: "Let's build something awesome!" },
+    { name: "Ankit Raj", username: "rajankit1501", thought: "Let's build something new!" },
 // 2. Paste it here and change the details
     
-    
+    { name: "Ankit Raj", username: "rajankit1501", thought: "Let's build something new!" },
 ];
