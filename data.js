@@ -8,10 +8,8 @@ const students = [
     // 1. Copy the line below
     { name: "Puneet Tiwari", username: "puneet426", thought: "Let's build something awesome!" },
     { name: "Ayush Kumar", username: "kansyakarayush-tech", thought: "Let's build something awesome!" },
-   { name: "shreyansh gopal", username: "Gopal1225", thought: "Let's build something awesome!" },
-   { name: "Tuhin Bhattacharjee", username: "bhattacharjeetuhin190-ops", thought: "Let's Go" },
-    // 2. Paste it here and change the details
-    { name: "Mahak Yadav", username: "mahak2211", thought: "Let's build something awesome!" },
+    { name: "Ankit Raj", username: "rajankit1501", thought: "Let's build something new!" },
+// 2. Paste it here and change the details
     
-    
+    { name: "Ankit Raj", username: "rajankit1501", thought: "Let's build something new!" },
 ];
