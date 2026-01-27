@@ -10,8 +10,9 @@ const students = [
     
 
     // 2. Paste it here and change the details
-    
+
+   
+    { name: "Yogesh Nagar", username: "YogeshNagar5", thought: "Let's build something awesome!" },
     
 ];
- { name: "Yogesh Nagar", username: "YogeshNagar5", thought: "Let's build something awesome!" },
-    
+
