@@ -13,3 +13,5 @@ const students = [
     
     
 ];
+{ name: "Ankush kumadr", username: "ankushkeshri", thought: "Let's build something awesome!" },
+    
