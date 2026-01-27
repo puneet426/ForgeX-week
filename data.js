@@ -9,6 +9,7 @@ const students = [
     { name: "Puneet Tiwari", username: "puneet426", thought: "Let's build something awesome!" },
     { name: "Ayush Kumar", username: "kansyakarayush-tech", thought: "Let's build something awesome!" },
    { name: "shreyansh gopal", username: "Gopal1225", thought: "Let's build something awesome!" },
+   { name: "akriti verma", username: "akriti689", thought: "Let's build something awesome!" },
     // 2. Paste it here and change the details
     
     
