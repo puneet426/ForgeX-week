@@ -10,6 +10,7 @@ const students = [
     { name: "Ayush Kumar", username: "kansyakarayush-tech", thought: "Let's build something awesome!" }
 
     // 2. Paste it here and change the details
+    { name: "Vansh Sharma", username: "vanshsharma-bpl", thought: "Let's build something awesome!" },
     
     
 ];
