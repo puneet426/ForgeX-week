@@ -7,7 +7,7 @@ const students = [
     
     // 1. Copy the line below
     { name: "Puneet Tiwari", username: "puneet426", thought: "Let's build something awesome!" },
-    
+    { name: "Vaibhav Singh", username: "vaibhavsingh030405", thought: "welcome to github" },
 
     // 2. Paste it here and change the details
     
