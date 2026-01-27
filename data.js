@@ -10,6 +10,6 @@ const students = [
     
 
     // 2. Past    { name: "Aniruddha Mondal", username: "Aniruddha411", thought: "Let's build something awesome!" },e it here and change the details
-    
+    { name: "Aniruddha Mondal", username: "Aniruddha411", thought: "Hellow guys " },
     
 ];
