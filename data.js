@@ -9,7 +9,6 @@ const students = [
     { name: "Puneet Tiwari", username: "puneet426", thought: "Let's build something awesome!" },
     { name: "Ayush Kumar", username: "kansyakarayush-tech", thought: "Let's build something awesome!" },
    { name: "shreyansh gopal", username: "Gopal1225", thought: "Let's build something awesome!" },
-    // 2. Paste it here and change the details
-    
+   { name: "afsar alam", username: "afsaralam062007-alam", thought: "Water Has No Effect On Fake Flowers!" },
     
 ];
