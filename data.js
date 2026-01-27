@@ -6,7 +6,7 @@
 const students = [
     
     // 1. Copy the line below
-    { name: "Raj Choudhary username: "rajchoudhariiii", thought: "Let's create something unique" },
+    { name: "Raj Choudhary", username: "rajchoudhariiii", thought: "Let's create something unique" },
    { name: "Raj Choudhary", username: "rajchoudhariiii", thought: "Let's create something unique" },
     
 
