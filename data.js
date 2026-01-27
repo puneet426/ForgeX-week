@@ -10,8 +10,8 @@ const students = [
     
 
     // 2. Paste it here and change the details
+    { name: "Prince Kumar", username: "princekumarcs16", thought: "I am into it sir" },
     
     
 ];
-{ name: "Prince Kumar", username: "princekumarcs16", thought: "I am into it sir" },
-    
+
