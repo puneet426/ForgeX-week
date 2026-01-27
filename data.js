@@ -15,3 +15,5 @@ const students = [
     
     
 ];
+{ name: "kritika ahlawat", username: "ahlawatkritika19-dev", thought: "Let's build something awesome!" },
+    
