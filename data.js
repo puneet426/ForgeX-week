@@ -9,7 +9,7 @@ const students = [
     { name: "Puneet Tiwari", username: "puneet426", thought: "Let's build something awesome!" },
     
 
-    // 2. Paste it here and change the details
+    // 2. Past    { name: "Aniruddha Mondal", username: "Aniruddha411", thought: "Let's build something awesome!" },e it here and change the details
     
     
 ];
